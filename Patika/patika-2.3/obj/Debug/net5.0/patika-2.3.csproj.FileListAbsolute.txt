@@ -1,0 +1,16 @@
+C:\Users\ridva\Desktop\Patika\patika-2.3\bin\Debug\net5.0\patika-2.3.exe
+C:\Users\ridva\Desktop\Patika\patika-2.3\bin\Debug\net5.0\patika-2.3.deps.json
+C:\Users\ridva\Desktop\Patika\patika-2.3\bin\Debug\net5.0\patika-2.3.runtimeconfig.json
+C:\Users\ridva\Desktop\Patika\patika-2.3\bin\Debug\net5.0\patika-2.3.runtimeconfig.dev.json
+C:\Users\ridva\Desktop\Patika\patika-2.3\bin\Debug\net5.0\patika-2.3.dll
+C:\Users\ridva\Desktop\Patika\patika-2.3\bin\Debug\net5.0\ref\patika-2.3.dll
+C:\Users\ridva\Desktop\Patika\patika-2.3\bin\Debug\net5.0\patika-2.3.pdb
+C:\Users\ridva\Desktop\Patika\patika-2.3\obj\Debug\net5.0\patika-2.3.csproj.AssemblyReference.cache
+C:\Users\ridva\Desktop\Patika\patika-2.3\obj\Debug\net5.0\patika-2.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ridva\Desktop\Patika\patika-2.3\obj\Debug\net5.0\patika-2.3.AssemblyInfoInputs.cache
+C:\Users\ridva\Desktop\Patika\patika-2.3\obj\Debug\net5.0\patika-2.3.AssemblyInfo.cs
+C:\Users\ridva\Desktop\Patika\patika-2.3\obj\Debug\net5.0\patika-2.3.csproj.CoreCompileInputs.cache
+C:\Users\ridva\Desktop\Patika\patika-2.3\obj\Debug\net5.0\patika-2.3.dll
+C:\Users\ridva\Desktop\Patika\patika-2.3\obj\Debug\net5.0\ref\patika-2.3.dll
+C:\Users\ridva\Desktop\Patika\patika-2.3\obj\Debug\net5.0\patika-2.3.pdb
+C:\Users\ridva\Desktop\Patika\patika-2.3\obj\Debug\net5.0\patika-2.3.genruntimeconfig.cache

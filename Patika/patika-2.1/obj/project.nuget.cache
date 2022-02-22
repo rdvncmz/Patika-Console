@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Cca0n96jqxbOspjssRd5aiGXZ7K5Q6ZwtwxS8RhGtKA+mB6GgXL3RoD+McIiiNGzA5R25Fm9w32twfXw0rykUA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ridva\\Desktop\\Patika\\patika-2.1\\koleksiyonlarList.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ridva\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
