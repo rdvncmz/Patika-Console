@@ -15,9 +15,10 @@ namespace patika_2._2
             Toplam();
         }
 
-        private static void EnKucuk()
+        private static void Toplam()
         {
-            Console.WriteLine("İki ortalamanın toplamı" + kucukOrtalama + buyukOrtalama);
+            buyukOrtalama += kucukOrtalama;
+            Console.WriteLine("İki ortalamanın toplamı " + buyukOrtalama);
         }
 
         private static void EnKucuk()
@@ -31,8 +32,8 @@ namespace patika_2._2
                 Console.Write($"En küçük {i + 1}. sayı: ");
                 Console.Write(sayilar[i] + "\n");
             }
-
-            Console.WriteLine("Üç büyük sayının ortalaması : " + kucukOrtalama / 3);
+                kucukOrtalama /= 3;
+            Console.WriteLine("Üç büyük sayının ortalaması : " + kucukOrtalama);
         }
 
         private static void EnBuyuk()
@@ -47,8 +48,8 @@ namespace patika_2._2
                 Console.Write($"En büyük {i + 1}. sayı: ");
                 Console.Write(sayilar[i] + "\n");
             }
-
-            Console.WriteLine("Üç büyük sayının ortalaması : " + buyukOrtalama / 3);
+            buyukOrtalama /= 3;
+            Console.WriteLine("Üç büyük sayının ortalaması : " + buyukOrtalama);
 
         }
 
@@ -59,15 +60,20 @@ namespace patika_2._2
             for (int i = 0; i < sayilar.Length; i++)
             {
                 Console.WriteLine($"{i + 1}. sayıyı giriniz");
+                bayrak = true;
 
-                try
+                while (bayrak)
                 {
-                sayilar[i] = Convert.ToInt32(Console.ReadLine());
-                }
-                catch (System.Exception)
-                {
-                    
-                    throw;
+                    try
+                    {
+                        sayilar[i] = Convert.ToInt32(Console.ReadLine());
+                        bayrak = false;
+                    }
+                    catch
+                    {
+                        Console.WriteLine("Lütfen SAYI girin");
+                        bayrak = true;
+                    }
                 }
             }
         }

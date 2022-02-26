@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tCzw1fvnBt+MlNwhxWKIQ9DgBzUX0EqnLFpxEKsgaxEuVHDV1tCCMP25l8aec9dwvT+9M3ncC0Gix4GJ9QJB9Q==",
+  "dgSpecHash": "PIvfS65Pb3OjzXMAtye9okC+T0fZXITZLX8dOYDHo1sV92b+Xlgzsm2Cxc3HiE2Bacjnj9icpzx49O2tKiUlLA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ridva\\Desktop\\Patika\\patika-2.2\\patika-2.2.csproj",
+  "projectFilePath": "C:\\Users\\ridva\\Desktop\\Patika-Console-main\\Ödevler\\patika-2.2\\patika-2.2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ridva\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
   ],
