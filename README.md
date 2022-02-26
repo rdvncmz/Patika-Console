@@ -1,2 +1,2 @@
 # Patika-Console
-Patika platformunun C# kursundaki ödeler
+Patika platformunun C# kursundaki ödevler
